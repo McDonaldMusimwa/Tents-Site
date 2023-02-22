@@ -5,7 +5,7 @@
   --primary-color: #f0a868;
   --secondary-color: #525b0f;
   --tertiary-color: #a4b8c4;
-  --light-grey: #d0d0d0;
+  --light-grey: #c2d5b2;
   --dark-grey: #303030;
 
   /* sizes */
@@ -21,6 +21,7 @@ body {
   font-family: var(--font-body);
   font-size: var(--font-base);
   color: var(--dark-grey);
+  background-color: var(--light-grey);
 }
 img {
   max-width: 100%;
